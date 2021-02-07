@@ -5,14 +5,10 @@ app = Flask(__name__)
 
 @app.route("/", methods=['GET'])
 def index():
-    global count
-    count += 1
     return render_template('index.html', naslov= 'Živijo')
 
 @app.route("/biografija", methods=['GET'])
 def biografija():
-    global count
-    count += 1
     return render_template('biografija.html')
 
 
