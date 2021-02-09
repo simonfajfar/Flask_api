@@ -6,7 +6,7 @@ Todo list:
  - flask (how to show list of dict, how to show list of elements to html)
  - virtual enviroment python
  - bootstrap, google material (css)
- - pycharm
+ - pycharm (trenutno delam)
  - requirements.txt
  - git (remotes, commit, add, push, remote)
  - github (REMOTE.md, markdown)
